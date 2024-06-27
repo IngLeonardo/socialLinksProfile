@@ -56,7 +56,7 @@ body{
   color: var(--color-White);
   font-size: 22px;
 }
-.content-description h3{
+.content-description h2{
   font-size: 14px;
   color: var(--color-Green);
   margin-top: 14px;
